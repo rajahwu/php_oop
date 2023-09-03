@@ -18,8 +18,6 @@ class Bicycle {
     }
 }
 
-
-
 $bike1 = new Bicycle;
 $bike1->brand = 'Trek';
 $bike1->model = "Emonda";
