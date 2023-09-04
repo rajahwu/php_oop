@@ -8,5 +8,6 @@
 <body>
     <h1>Home</h1>
     <a href="../oop_sandbox/~basic.html">oop sandbox</a>
+    <a href="../chain_gang/public">project</a>
 </body>
 </html>
